@@ -2,7 +2,7 @@ A cinematic, interactive 3D simulation of a global missile defense and strike te
 
 🚀 Features
 1.3D Interactive Globe: Built with Three.js, featuring realistic Earth textures, orbital controls (zoom/rotate), and dynamic lighting.<br>
-2.Multi-Stage Authentication: A scripted "Boot Sequence" followed by a mock biometric face scan and passcode verification system.
+2.Multi-Stage Authentication: A scripted "Boot Sequence" followed by a mock biometric face scan and passcode verification system.<br>
 3.Tactical Radar HUD: A custom HTML5 Canvas radar that sweeps for targets and tracks missile progress in real-time.
 4.Dynamic Missile Physics: Missiles feature particle-based exhaust trails and calculated trajectories from silos to target coordinates.
 5.Nuclear Yield Simulation: Different warhead selections (W88, B83, RS-28) trigger varying explosion scales, complete with screen-shake effects, point-light flashes, and 3D particle expansion.
