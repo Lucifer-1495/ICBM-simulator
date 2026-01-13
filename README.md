@@ -1,7 +1,7 @@
 A cinematic, interactive 3D simulation of a global missile defense and strike terminal. This project blends a "retro-cyberpunk" terminal aesthetic with a modern Three.js 3D globe visualization.
 
 🚀 Features
-1.3D Interactive Globe: Built with Three.js, featuring realistic Earth textures, orbital controls (zoom/rotate), and dynamic lighting.
+1.3D Interactive Globe: Built with Three.js, featuring realistic Earth textures, orbital controls (zoom/rotate), and dynamic lighting.<br>
 2.Multi-Stage Authentication: A scripted "Boot Sequence" followed by a mock biometric face scan and passcode verification system.
 3.Tactical Radar HUD: A custom HTML5 Canvas radar that sweeps for targets and tracks missile progress in real-time.
 4.Dynamic Missile Physics: Missiles feature particle-based exhaust trails and calculated trajectories from silos to target coordinates.
